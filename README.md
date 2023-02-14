@@ -1,2 +1,2 @@
-# first-day-repo
-My First Day Repository
+# Bootcamp
+Bootcamp Repository
